@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu sou Andre Aragao, sou um Programador Front End, Atualmente estou criando projetos com:
+Eu sou Andre Aragao, sou um Programador Fullstack, Atualmente estou criando projetos com:
 <br>
 <br>
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html logo"/>
