@@ -13,5 +13,5 @@ Desenvolvedor Full Stack focado em soluções de alta performance com **Rust**, 
 - **[Dev Burguer Front-end React](https://github.com/Andre202505/Dev-Burguer-2026):** Aplicação SPA moderna gerenciada via pnpm.
 
 ## 📬 Vamos nos conectar?
-- **LinkedIn:** [Andre Aragão Melo](www.linkedin.com/in/andrearagao25)
+- **LinkedIn:** www.linkedin.com/in/andrearagao25
 - **E-mail: andrezitoaragao@hotmal.com
