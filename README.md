@@ -1,12 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o André! 👋
 
-Eu sou Andre Aragao, sou um Programador Fullstack, Atualmente estou criando projetos com:
-<br>
-<br>
-- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html logo"/>
-- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css log"/>
-- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo"/>
+Desenvolvedor Full Stack focado em soluções de alta performance com **Rust**, **Inteligência Artificial** e o ecossistema moderno do **React**. Venho transformando ideias em código sólido e escalável ao longo dos últimos 3 anos através de projetos independentes de ponta a ponta.
 
-[![Andre stats](https://github-readme-stats.vercel.app/api?username=andre202505)](https://github.com/anuraghazra/github-readme-stats)
+## 🚀 Minhas Especialidades & Stack
+- **Languages:** Rust, JavaScript, TypeScript
+- **Frontend:** React.js, Next.js, HTML5, CSS3, TailwindCSS
+- **Backend & AI:** Rust (Axum/Actix), Integração de Modelos de IA / LLMs, Node.js
+- **Ferramentas & Performance:** pnpm, Yarn, Git/GitHub, Docker
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andre202505)
+## 🛠️ Projetos em Destaque
+*(Adicione aqui links diretos para os seus 2 ou 3 melhores repositórios)*
+- **[Nome do seu Projeto de IA em Rust](LINK_DO_REPOSITORIO):** Descrição curta de uma frase sobre o que ele resolve.
+- **[Nome do seu Projeto Front-end React](LINK_DO_REPOSITORIO):** Aplicação SPA moderna gerenciada via pnpm.
+
+## 📬 Vamos nos conectar?
+- **LinkedIn:** [Seu Nome Completo](LINK_DO_SEU_LINKEDIN_QUANDO_CRIAR)
+- **E-mail:** seu.email@exemplo.com
