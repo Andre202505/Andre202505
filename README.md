@@ -10,32 +10,31 @@ Tenho como objetivo evoluir continuamente como desenvolvedor e transformar conhe
 
 ## 🚀 Tecnologias e ferramentas
 
-### Front-end
+### 🎨 Front-end
 
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Vite
-* Styled-components
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge\&logo=styled-components\&logoColor=white)
 
-### Back-end
+### ⚙️ Back-end
 
-* Node.js
-* APIs REST
-* Rust
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust\&logoColor=white)
 
-### Banco de dados
+### 🗄️ Banco de dados
 
-* PostgreSQL
-* MongoDB
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
-### Ferramentas
+### 🛠️ Ferramentas
 
-* Git
-* GitHub
-* Docker
-* VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
@@ -67,7 +66,7 @@ Aplicação web desenvolvida com React para simular um sistema de pedidos, traba
 
 Crate desenvolvida em Rust para validação de CPF, com foco em reutilização de código, organização do projeto e testes.
 
-**Tecnologias:** Rust, Cargo, testes automatizados.
+**Tecnologias:** Rust, Cargo e testes automatizados.
 
 🔗 [Ver projeto no GitHub](https://github.com/Andre202505/validador-crate-rust-2026)
 
@@ -101,15 +100,24 @@ Tenho interesse em continuar evoluindo principalmente nas áreas de **JavaScript
 
 ---
 
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre202505\&show_icons=true\&theme=github_dark\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre202505\&layout=compact\&theme=github_dark\&hide_border=true)
+
+---
+
 ## 📫 Entre em contato
 
 * 💼 LinkedIn: [André Aragão](https://www.linkedin.com/in/andrearagao25/)
 * 🐙 GitHub: [Andre202505](https://github.com/Andre202505)
-* 📧 E-mail: **[andrezitoaragao@hotmail.com](mailto:andrezitoaragao@hotmail.com)**
+* 📧 E-mail: [**andrezitoaragao@hotmail.com**](mailto:andrezitoaragao@hotmail.com)
 
 ---
 
 ⭐ Obrigado por visitar meu perfil!
 
 Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução como desenvolvedor.
+
 
