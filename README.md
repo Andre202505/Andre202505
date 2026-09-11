@@ -102,9 +102,16 @@ Tenho interesse em continuar evoluindo principalmente nas áreas de **JavaScript
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andre202505\&show_icons=true\&theme=github_dark\&hide_border=true)
+Estou constantemente evoluindo através de projetos práticos, estudos e desafios de programação.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andre202505\&layout=compact\&theme=github_dark\&hide_border=true)
+Meu foco atual está em:
+
+- 💻 Desenvolvimento Full Stack
+- ⚛️ React e JavaScript
+- 🟢 Node.js e APIs REST
+- 🦀 Rust
+- 🗄️ Bancos de dados
+- 🐳 Docker
 
 ---
 
