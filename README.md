@@ -14,4 +14,4 @@ Desenvolvedor Full Stack focado em soluções de alta performance com **Rust**, 
 
 ## 📬 Vamos nos conectar?
 - **LinkedIn:** www.linkedin.com/in/andrearagao25
-- **E-mail: andrezitoaragao@hotmal.com
+- **E-mail: andrezitoaragao@hotmail.com
